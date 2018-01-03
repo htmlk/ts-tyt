@@ -1,0 +1,4 @@
+node_modules
+debug.log
+public/img/screenshot/**
+package-lock.json
