@@ -6,7 +6,7 @@
 
 安装 [Node.js](https://nodejs.org/en/)
 
-``git clone https://github.com/wotermelon/toJump.git``
+``git clone git@github.com:htmlk/ts-tyt.git``
 
 ```shell
 # 安装依赖
